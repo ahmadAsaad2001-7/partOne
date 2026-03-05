@@ -1,0 +1,14 @@
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.AssemblyInfoInputs.cache
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.AssemblyInfo.cs
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.csproj.CoreCompileInputs.cache
+E:\vsCodeLearn\petStoreProject\bin\Debug\net9.0\petStoreProject.exe
+E:\vsCodeLearn\petStoreProject\bin\Debug\net9.0\petStoreProject.deps.json
+E:\vsCodeLearn\petStoreProject\bin\Debug\net9.0\petStoreProject.runtimeconfig.json
+E:\vsCodeLearn\petStoreProject\bin\Debug\net9.0\petStoreProject.dll
+E:\vsCodeLearn\petStoreProject\bin\Debug\net9.0\petStoreProject.pdb
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.dll
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\refint\petStoreProject.dll
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.pdb
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\petStoreProject.genruntimeconfig.cache
+E:\vsCodeLearn\petStoreProject\obj\Debug\net9.0\ref\petStoreProject.dll
